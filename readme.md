@@ -5,7 +5,7 @@
 - install **gollum**: `gem install gollum` (you might need to brew install some
   libraries, like `brew install icu4c` or `apt-get install libicu-dev`)
 
-## working on the wii
+## working on the wiki
 
 - go into the `*.wiki` repo that you cloned previously
 - run `gollum` and navigate to `localhost:4567` or whatever it is for you.
